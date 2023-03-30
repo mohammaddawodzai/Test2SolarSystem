@@ -10,7 +10,7 @@ public class Main {
         featureSun88 sun88=new featureSun88();
         sun88.radius="987765";
         sun88.heat="8799090";
-        sun88.temperature="90807060;
+        sun88.temperature="90807060";
 
 
     }
