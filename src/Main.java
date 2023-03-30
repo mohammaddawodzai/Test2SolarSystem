@@ -12,6 +12,11 @@ public class Main {
         sun88.heat="8799090";
         sun88.temperature="90807060";
 
+        featureMoon moon2=new featureMoon();
+        moon2.shape="triangle";
+        moon2.color="blue";
+        moon2.size="98766544;
+
 
     }
 }
