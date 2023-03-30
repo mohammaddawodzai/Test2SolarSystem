@@ -15,7 +15,7 @@ public class Main {
         featureMoon moon2=new featureMoon();
         moon2.shape="triangle";
         moon2.color="blue";
-        moon2.size="98766544;
+        moon2.size="98766544";
 
 
     }
