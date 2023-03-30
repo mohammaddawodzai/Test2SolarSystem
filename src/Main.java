@@ -7,5 +7,11 @@ public class Main {
         solar2.moon="4";
         solar2.planets="7";
 
+        featureSun88 sun88=new featureSun88();
+        sun88.radius="987765";
+        sun88.heat="8799090";
+        sun88.temperature="90807060;
+
+
     }
 }
