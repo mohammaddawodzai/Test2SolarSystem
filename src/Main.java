@@ -15,7 +15,7 @@ public class Main {
         featurePlanet99 planet99=new featurePlanet99();
         planet99.color="blue";
         planet99.shape="rounded";
-        planet99.type="terrestrial;
+        planet99.type="terrestrial";
 
 
 
